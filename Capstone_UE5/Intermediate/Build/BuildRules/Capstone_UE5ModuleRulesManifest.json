@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\pcd02\\Desktop\\Capstone_Unreal\\Capstone_UE5\\Source\\Capstone_UE5\\Capstone_UE5.Build.cs",
+		"C:\\Users\\pcd02\\Desktop\\Capstone_Unreal\\Capstone_UE5\\Source\\Capstone_UE5.Target.cs",
+		"C:\\Users\\pcd02\\Desktop\\Capstone_Unreal\\Capstone_UE5\\Source\\Capstone_UE5Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

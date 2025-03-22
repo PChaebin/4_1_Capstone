@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Capstone_UE5.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\pcd02\Desktop\Capstone_Unreal\Capstone_UE5\Intermediate\Build\Win64\x64\Capstone_UE5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\pcd02\Desktop\Capstone_Unreal\Capstone_UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Capstone_UE5\Capstone_UE5.cpp.obj"
+"C:\Users\pcd02\Desktop\Capstone_Unreal\Capstone_UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Capstone_UE5\PerModuleInline.gen.cpp.obj"
+"C:\Users\pcd02\Desktop\Capstone_Unreal\Capstone_UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Capstone_UE5\Default.rc2.res"
+/OUT:"C:\Users\pcd02\Desktop\Capstone_Unreal\Capstone_UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Capstone_UE5\UnrealEditor-Capstone_UE5.lib"

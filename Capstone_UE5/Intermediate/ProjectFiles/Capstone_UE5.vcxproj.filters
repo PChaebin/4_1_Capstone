@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Capstone_UE5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Capstone_UE5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Capstone_UE5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Capstone_UE5">
+      <UniqueIdentifier>{1ED21094-5722-3B0D-8C89-E28D200707CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Capstone_UE5\Capstone_UE5.Build.cs">
+      <Filter>Source\Capstone_UE5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Capstone_UE5\Capstone_UE5.cpp">
+      <Filter>Source\Capstone_UE5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Capstone_UE5\Capstone_UE5.h">
+      <Filter>Source\Capstone_UE5</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

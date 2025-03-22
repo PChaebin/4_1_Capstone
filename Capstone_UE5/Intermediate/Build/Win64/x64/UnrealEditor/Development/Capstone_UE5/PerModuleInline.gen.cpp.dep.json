@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pcd02\\desktop\\capstone_unreal\\capstone_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\capstone_ue5\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pcd02\\desktop\\capstone_unreal\\capstone_ue5\\intermediate\\build\\win64\\x64\\capstone_ue5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pcd02\\desktop\\capstone_unreal\\capstone_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\capstone_ue5\\definitions.capstone_ue5.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
